@@ -1,5 +1,11 @@
 # **About me :speech_balloon:**
 
+I am currently working as a Full-Stack Software Developer. 
+
+I received my Bachelors Degree in Systems Engineering and my Masters Degree in Complex Systems from the Faculty of Automatic Control and Computer Science, Bucharest, Romania.
+
+**Competencies:** *java, SQL, docker, noSQL, javascript, android, python*
+
 ## **Contact** 🎣
 
 🦊 GitHub: [ionut-banu](https://github.com/ionut-banu)
