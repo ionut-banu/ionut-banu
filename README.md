@@ -2,7 +2,7 @@
 I’m Ionut Banu, a seasoned Software Development Engineer with expertise in stream processing, cloud technologies, and data engineering. Over the years, I’ve developed a strong foundation in backend services and scalable application design, constantly pushing the boundaries of data-driven solutions.
 
 ## What do I do?
-I’m Ionut Banu, a seasoned Software Development Engineer with expertise in stream processing, cloud technologies, and data engineering. Over the years, I’ve developed a strong foundation in backend services and scalable application design, constantly pushing the boundaries of data-driven solutions.
+I specialize in building and optimizing high-performance software systems, from real-time data processing platforms to robust cloud-based architectures. My technology stack includes tools like Spring Boot, Apache Flink, Kafka, and AWS, which I use to develop efficient, reliable applications. I also contributed to the academic community through published research on topics such as decentralized control systems and genetic algorithms.
 
 
 ## 🌐 Socials:
